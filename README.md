@@ -2,7 +2,7 @@
 - 👀 I’m interested in Development 
 - 🌱 I’m currently learning Microsoft business solutions 15+
 - 💞️ I’m looking to collaborate on development of systems and software 
-- 📫 How to reach me theehabert@gmail.com or +254768776956
+- 📫 How to reach me hwadikinyit@gmail.com or +254768776956
 
 <!---
 theehtv001/theehtv001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
